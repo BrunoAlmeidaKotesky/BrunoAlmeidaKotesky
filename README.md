@@ -8,7 +8,7 @@
 </a>
   <div>
     <h3>Grande projeto de extensão para o VSCode em breve...</h3>
-<a height="180em" href="https://github.com/BrunoAlmeidaKotesky/BrunoAlmeidaKotesky">
+<a height="180em" href="https://github.com/BrunoAlmeidaKotesky/vscode-tetriminos">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoAlmeidaKotesky&repo=vscode-tetriminos&theme=tokyonight" />
 </a>
   </div>
