@@ -7,10 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlmeidaKotesky&layout=compact&hide=jupyter%20notebook,css,html,batchfile&langs_count=8&theme=tokyonight"/>
 </a>
   <div>
-    <h3>Grande projeto de extensão para o VSCode em breve...</h3>
-<a height="180em" href="https://github.com/BrunoAlmeidaKotesky/vscode-tetriminos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoAlmeidaKotesky&repo=vscode-tetriminos&theme=tokyonight" />
-</a>
+    <h3>Quer jogar TETRIS dentro do próprio VSCode? Veja no meu repositório.</h3>
+    <a height="180em" href="https://github.com/BrunoAlmeidaKotesky/vscode-tetriminos">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoAlmeidaKotesky&repo=vscode-tetriminos&theme=tokyonight" />
+    </a>
+    <div><a height="180em" href="https://marketplace.visualstudio.com/items?itemName=BrunoAlmeidaKotesky.tetriminos">Baixar Tetriminos</a></div>
   </div>
 <div>
   <h3>Tecnologias: </h3>
